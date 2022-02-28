@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+---
+layout: page
+title: Digitale Transformation der Österreichischen Geisteswissenschaften
+callouts: home_callouts
+show_sidebar: true
+hero_height: is-medium
+---
 
-You can use the [editor on GitHub](https://github.com/helmutwklug/ditah-at/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Ein Projekt zu Vermittlung und Ausbau digitaler Kompetenzen, Methoden und Infrastrukturen in geisteswissenschaftlicher Forschung und Lehre - gefördert vom Bundesministerium für Bildung, Wissenschaft und Forschung**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ziel dieses Projektes ist es, die in den Digital Humanities entwickelten Methoden und Ansätze so zu etablieren und aufzubereiten, dass sie in den alltäglichen Gebrauch geisteswissenschaftlicher Forschung und Nachwuchsbildung übergehen können.
+Zu diesem Zweck werden gemeinsam entwickelte Lösungen in drei großen Themenbereichen geschaffen: Integration der digitalen Infrastruktur, Aufbereitung und niederschwelliger Zugang zu digitalen Methoden und Tools sowie die Vermittlung digitaler Kompetenzen in Wissenschaft und Lehre. Das durchführende Konsortium setzt sich dabei aus Mitgliedern führender österreichischer DH-Standorten zusammen.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/helmutwklug/ditah-at/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Die drei Säulen des Projektes und ihre Aufgabengebiete im Überblick:
+* **Infrastruktur**
+    - Gemeinsamen Forschungsdateninfrastruktur für die digitalen Geisteswissenschaften
+    - Erfassungs- und Beschreibungsumgebung für Bild- und Textobjekte
+    - Archvierungslösungen für geisteswissenschaftliche Forschungsdaten unter besonderer Berückdsichtigung von Bilddaten
+    - European Open Science Cloud / SSHOC
+         
+* **Methoden und Tools zur Analyse von Forschungsdaten**
+    - Abgleich digitaler und traditioneller geisteswissenschaftlicher Methoden
+    - Annotation
+    - Kuratierung und Erschließung
+    - Computer Vision, Artificial Intelligence
+         
+* **Wissenstransfer**
+    - Didaktische Aufbereitung
+    - Tutorien zu Infrastruktur, Methoden und Tools
+    - Lösungen für die Präsentation von Forschungsdaten
+    - Information Retrieval
+    - Experimenteller Zugang zu wissenschaftlichen Daten
+    - Wissenschaftskommunikation in den Geisteswissenschaften
