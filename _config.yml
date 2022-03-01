@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: DiTAH
-email: ditah@uni-graz.at
+email: 
 description: Digitale Transformation der österreichischen Geisteswissenschaften
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ditah.uni-graz.at" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ditah-at
-github_username:  ditah-at
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  
 
 footer_menu: footer_menu
 
@@ -38,7 +38,8 @@ collections:
     output: true
 
 # Build settings
-remote_theme: lindesc/bulma-clean-theme@ditah
+# remote_theme: lindesc/bulma-clean-theme@ditah
+theme: minima
 plugins:
   - jekyll-feed
 
