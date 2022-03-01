@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: Digitale Transformation der Österreichischen Geisteswissenschaften
+title: D T Ö  
 callouts: home_callouts
 show_sidebar: true
 hero_height: is-medium
